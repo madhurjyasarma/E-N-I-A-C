@@ -3,10 +3,7 @@
 
 
 ENIAC is a file explorer inspired by Electronic Numerical Integrator and Computer from 1945. 
-It locks you in the Terminal and lets you - 
+It lets you - 
 * List files in directory
 * Add, Delete or Search
 * Exit Program
-
-
-Co-created by Abhinov.
