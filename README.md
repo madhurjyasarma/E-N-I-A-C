@@ -1,2 +1,2 @@
 # E-N-I-A-C
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![LockedMe version 2](https://github.com/madhurjyasarma/E-N-I-A-C/blob/main/Eniac.png?raw=true)
